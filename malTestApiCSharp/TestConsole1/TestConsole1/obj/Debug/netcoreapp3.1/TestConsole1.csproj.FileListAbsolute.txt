@@ -1,0 +1,16 @@
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\bin\Debug\netcoreapp3.1\TestConsole1.exe
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\bin\Debug\netcoreapp3.1\TestConsole1.deps.json
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\bin\Debug\netcoreapp3.1\TestConsole1.runtimeconfig.json
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\bin\Debug\netcoreapp3.1\TestConsole1.runtimeconfig.dev.json
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\bin\Debug\netcoreapp3.1\TestConsole1.dll
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\bin\Debug\netcoreapp3.1\TestConsole1.pdb
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.csproj.AssemblyReference.cache
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.GeneratedMSBuildEditorConfig.editorconfig
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.AssemblyInfoInputs.cache
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.AssemblyInfo.cs
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.csproj.CoreCompileInputs.cache
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.csproj.CopyComplete
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.dll
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.pdb
+D:\-PerGit\MALSearch\malApi\malTestApiCSharp\TestConsole1\TestConsole1\obj\Debug\netcoreapp3.1\TestConsole1.genruntimeconfig.cache
