@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wVBJ12fJOq8PyOio0pGNo3fgY7BKwZztm8AqKbsyOBKxLJrKwcbGy4FrvsTlE9DV50fU5Lc0HAVaXZod3BFWxQ==",
+  "dgSpecHash": "70D6QcPkWE55k0wXzA6r67jpayqLQrm1TWQhSrTQFn1B0AyOZy/be7k+YhlEBOsqK6WzUP5Ru4Yp3Cj/+eEj0w==",
   "success": true,
-  "projectFilePath": "D:\\-PerGit\\MALSearch\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj",
+  "projectFilePath": "D:\\GitHubRep\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\testuser\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\simon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\-PerGit\\MALSearch\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj": {}
+    "D:\\GitHubRep\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj": {}
   },
   "projects": {
-    "D:\\-PerGit\\MALSearch\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj": {
+    "D:\\GitHubRep\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\-PerGit\\MALSearch\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj",
+        "projectUniqueName": "D:\\GitHubRep\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj",
         "projectName": "malApiForm",
-        "projectPath": "D:\\-PerGit\\MALSearch\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj",
-        "packagesPath": "C:\\Users\\testuser\\.nuget\\packages\\",
-        "outputPath": "D:\\-PerGit\\MALSearch\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\obj\\",
+        "projectPath": "D:\\GitHubRep\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\malApiForm.csproj",
+        "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHubRep\\malApi\\malApiFormCSharp\\malApiForm\\malApiForm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\testuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
